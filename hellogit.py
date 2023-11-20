@@ -1,1 +1,1 @@
-print("Texto base con Edición nivel 1")
+print("Esto es un ejemplo")
